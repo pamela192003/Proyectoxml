@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas_estudio>
+  <resultado_unidades7>
+    <nombre>APLICACIONES EN INTERNET </nombre>
+    <id_semestre>1</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>1</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades7>
+  <resultado_unidades14>
+    <nombre>OFIMÁTICA</nombre>
+    <id_semestre>2</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>1</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades14>
+  <resultado_unidades23>
+    <nombre>INGLÉS PARA LA COMUNICACIÓN ORAL</nombre>
+    <id_semestre>3</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>1</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades23>
+  <resultado_unidades25>
+    <nombre>COMPORTAMIENTO ÉTICO</nombre>
+    <id_semestre>4</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>2</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades25>
+  <resultado_unidades32>
+    <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+    <id_semestre>5</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>1</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades32>
+  <resultado_unidades37>
+    <nombre>PLAN DE NEGOCIOS</nombre>
+    <id_semestre>6</id_semestre>
+    <creditos_teorico>1</creditos_teorico>
+    <creditos_practico>1</creditos_practico>
+    <unidades_didacticas/>
+    <semestre/>
+    <modulos/>
+    <planes_estudio/>
+  </resultado_unidades37>
+</programas_estudio>
